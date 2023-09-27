@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryaman1505" alt="aryaman1505" /></a> </p>
 
-- 🌱 I’m currently learning **React.js,MongoDB**
 
 - 💬 Ask me about **JAVA, Node, Express, NumPy, Pandas**
 
